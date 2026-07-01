@@ -1,6 +1,6 @@
 {
   "schema": "zora.places/v2",
-  "version": 1,
+  "version": 2,
   "updatedAt": "2026-06-30",
   "count": 30,
   "places": [
