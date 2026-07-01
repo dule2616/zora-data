@@ -1,5 +1,5 @@
 {
-  "schema": "zora.places/v1",
+  "schema": "zora.places/v2",
   "version": 1,
   "updatedAt": "2026-06-30",
   "count": 30,
@@ -333,6 +333,17 @@
       "address": "Fruška gora",
       "season": "proleće–jesen",
       "desc": "Fruškogorski manastir iz 16. veka, zadužbina Brankovića."
+    },
+     {
+      "id": 30,
+      "name": "Manastir Gornjak",
+      "cat": "manastir",
+      "lat": 44.2658,
+      "lon": 21.5436,
+      "rating": 4.5,
+      "address": "Petrovac",
+      "season": "proleće–jesen",
+      "desc": "Manastir Gornjak, ranije poznat i kao Manastir Ždrelo."
     }
   ]
 }
